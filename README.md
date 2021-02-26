@@ -20,13 +20,11 @@ Files that are in the target folder and have the names of the downloaded files w
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Installation:</strong></span></h3>
 The program is portable, but you need to put the following files (gallery-dl.exe, youtube-dl.exe, ffmpeg.exe) in the GUIllrery-DL folder. Github has problems with publishing "youtube-dl" and co., so you will have to download and put "gallery-dl", "youtube-dl and "ffmpeg" in the folder yourself. If you only need to download photos/images then you need only "gallery-dl"!
 
+- https://github.com/mikf/gallery-dl/releases : Photo/Image downloads
 
-https://github.com/mikf/gallery-dl/releases : Photo/Image downloads
+- https://youtube-dl.org/downloads/latest/youtube-dl.exe : Video downloads
 
-https://youtube-dl.org/downloads/latest/youtube-dl.exe : Video downloads
-
-https://github.com/BtbN/FFmpeg-Builds/releases : Pixiv Ugoira to WebM conversion
-
+- https://github.com/BtbN/FFmpeg-Builds/releases : Pixiv Ugoira to WebM conversion
 
 
 <h4 style="text-align: center;"><span style="color: #3366ff;"><strong>Attention: the path where the program is located must not contain "spaces" or "non-English letters".</strong></span></h4>
