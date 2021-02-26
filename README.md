@@ -4,7 +4,11 @@
 <h1 style="text-align: center;"><span style="color: #3366ff;"><strong>GUIllery-DL</strong></span></h1>
 GUIllery-DL is a simple "gallery-dl-GUI" for downloading media files from different pages.
 
+It is possible to: 
+- save media files to any selected folder
+- create a folder with a user or tag name, and save media files in it
 
+Files that are in the target folder and have the names of the downloaded files will be overwritten!!!
 
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Screenshots:</strong></span></h3>
 <a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/guillery-dl.github.io/main/scr.jpg?raw=true" alt="test-pattern-152459-1280" border="0"></a>
