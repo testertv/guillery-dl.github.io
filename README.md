@@ -2,7 +2,7 @@
 
 <a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/guillery-dl.github.io/main/title.png?raw=true" alt="test-pattern-152459-1280" border="0"></a>
 <h1 style="text-align: center;"><span style="color: #3366ff;"><strong>GUIllery-DL</strong></span></h1>
-GUIllery-DL is a simple "gallery-dl-GUI" for downloading media files from different pages.
+GUIllery-DL is a simple "gallery-dl GUI" for downloading media files from different pages.
 
 It is possible to: 
 - save media files to any selected folder
