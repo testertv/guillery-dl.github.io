@@ -18,7 +18,7 @@ Files that are in the target folder and have the names of the downloaded files w
 <h3><span style="text-decoration: underline;"><strong>https://github.com/testertv/guillery-dl.github.io/raw/main/Releases/GUIllery-DL%20v.2021.02.25.exe</strong></span></h3>
 
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Installation:</strong></span></h3>
-The program is portable, but you need to put the following files (gallery-dl.exe, youtube-dl.exe, ffmpeg.exe) in the GUIllrery-DL folder. Github has problems with publishing "youtube-dl" and co., so you will have to download and put "gallery-dl", "youtube-dl and "ffmpeg" in the folder yourself. If you ONLY need to download photos/images then you need only "gallery-dl"!
+The program is portable, but you need to put the following files (gallery-dl.exe, youtube-dl.exe, ffmpeg.exe) in the GUIllrery-DL folder. Github has problems with publishing "youtube-dl" and co., so you will have to download and put "gallery-dl", "youtube-dl and "ffmpeg" in the folder yourself. If you ONLY need to download photos/images then you need only "gallery-dl.exe"!
 
 - https://github.com/mikf/gallery-dl/releases : Photo/Image downloads
 
