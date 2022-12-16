@@ -22,7 +22,7 @@ The program is portable, but you need to put the following files (gallery-dl.exe
 
 - https://github.com/mikf/gallery-dl/releases : Photo/Image downloads
 
-- https://youtube-dl.org/downloads/latest/youtube-dl.exe : Video downloads
+- https://youtube-dl.org/downloads/latest/youtube-dl.exe : Video downloads (is no longer supported since 2021.12.17)
 
 - https://github.com/BtbN/FFmpeg-Builds/releases : Pixiv Ugoira to WebM conversion
 
