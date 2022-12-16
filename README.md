@@ -22,7 +22,8 @@ The program is portable, but you need to put the following files (gallery-dl.exe
 
 - https://youtube-dl.org/downloads/latest/youtube-dl.exe : Video downloads (is no longer supported since 2021.12.17)
 
-- https://github.com/BtbN/FFmpeg-Builds/releases : Pixiv Ugoira to WebM conversion (without youtube-dl is not needed)
+- https://github.com/BtbN/FFmpeg-Builds/releases : Pixiv Ugoira to WebM conversion. Contained in "
+    ffmpeg-master-latest-win64-gpl.zip" archive. (without youtube-dl is not needed)
 
 
 <h4 style="text-align: center;"><span style="color: #3366ff;"><strong>Attention: the path where the program is located must not contain "spaces" or "non-English letters".</strong></span></h4>
