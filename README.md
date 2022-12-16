@@ -11,7 +11,7 @@ It is possible to:
 Files that are in the target folder and have the names of the downloaded files will be overwritten!!!
 
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Screenshots:</strong></span></h3>
-<a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/guillery-dl.github.io/main/scr.jpg?raw=true" alt="test-pattern-152459-1280" border="0"></a>
+<a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/guillery-dl.github.io/main/scr.png?raw=true" alt="test-pattern-152459-1280" border="0"></a>
 
 
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Download last version for Windows (free, portable and open source):</strong></span></h3>
@@ -29,4 +29,7 @@ The program is portable, but you need to put the following files (gallery-dl.exe
 
 <h4 style="text-align: center;"><span style="color: #3366ff;"><strong>Attention: the path where the program is located must not contain "spaces" or "non-English letters".</strong></span></h4>
 
-P.S.: I am not a programmer, so do not judge strictly my code! The main thing it performs its function :)
+In the next version I will add the following tools:
+- change youtube-dl to yt-dlp.exe
+- add support of spaces in file path
+
