@@ -20,15 +20,13 @@ The program is portable, but you need to put the following files (gallery-dl.exe
 
 - https://github.com/mikf/gallery-dl/releases : Photo/Image downloads
 
-- https://youtube-dl.org/downloads/latest/youtube-dl.exe : Video downloads (is no longer supported since 2021.12.17)
+- https://youtube-dl.org/downloads/latest/yt-dlp.exe : Video downloads
 
 - https://github.com/BtbN/FFmpeg-Builds/releases : Pixiv Ugoira to WebM conversion. Contained in "
-    ffmpeg-master-latest-win64-gpl.zip" archive. (without youtube-dl is not needed)
+    ffmpeg-master-latest-win64-gpl.zip" archive.
 
 
-<h4 style="text-align: center;"><span style="color: #3366ff;"><strong>Attention: the path where the program is located must not contain "spaces" or "non-English letters".</strong></span></h4>
+<h4 style="text-align: center;"><span style="color: #3366ff;"><strong>Attention: the path where the program is located must not contain "non-English letters".</strong></span></h4>
 
-In the next version I will add the following tools:
-- change youtube-dl to yt-dlp.exe
-- add support of spaces in file path
+
 
