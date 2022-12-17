@@ -20,7 +20,7 @@ The program is portable, but you need to put the following files (gallery-dl.exe
 
 - https://github.com/mikf/gallery-dl/releases : Photo/Image downloads
 
-- https://youtube-dl.org/downloads/latest/yt-dlp.exe : Video downloads
+- https://github.com/yt-dlp/yt-dlp/releases : Video downloads
 
 - https://github.com/BtbN/FFmpeg-Builds/releases : Pixiv Ugoira to WebM conversion. Contained in "
     ffmpeg-master-latest-win64-gpl.zip" archive.
