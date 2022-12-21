@@ -11,6 +11,13 @@ Files that are in the target folder and have the names of the downloaded files w
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Screenshots:</strong></span></h3>
 <a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/guillery-dl.github.io/main/img.png?raw=true" alt="test-pattern-152459-1280" border="0"></a>
 
+(1) - Paste link ffrom clipboard in textfield
+(2) - Start download
+(3) - Open path folder
+(4) - Browse folder for download
+(5) - Download only media(photo,video) or Download all media in folder, called by uploader username
+(6) - Information window
+(7) - (Un)Pin window -> hold the window most top over all other windows
 
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Download last version for Windows (free, portable and open source):</strong></span></h3>
 <h3><span style="text-decoration: underline;"><strong>https://github.com/testertv/guillery-dl.github.io/raw/main/Releases/GUIllery-DL%20v.2022.12.17.exe</strong></span></h3>
