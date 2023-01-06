@@ -36,7 +36,7 @@ Files that are in the target folder and have the names of the downloaded files w
  <a href="https://github.com/testertv/guillery-dl.github.io/raw/main/Releases/GUIllery-DL%20v.2022.12.17.exe" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-GUIllery--DL-brightgreen.svg" width="250"></a>  
  </p><p align="center">
  
-The program is portable, but you need to put the following files (gallery-dl.exe, yt-dlp.exe, ffmpeg.exe) in the GUIllrery-DL folder. Github has problems with publishing "YT-DLP" and co., so you will have to download and put "gallery-dl", "yt-dlp and "ffmpeg" in the folder yourself. If you ONLY need to download photos/images then you need only "gallery-dl.exe"! 
+The program is portable, but you need to put the following files (gallery-dl.exe, yt-dlp.exe, ffmpeg.exe) in the GUIllrery-DL folder. Github has problems with publishing "yt-dlp" and co., so you will have to download and put "gallery-dl", "yt-dlp" and "ffmpeg" in the folder yourself. If you ONLY need to download photos/images then you need only "gallery-dl.exe"! 
 
 <p align="center"> 
 <a href="https://github.com/mikf/gallery-dl/releases" alt=""><img src="https://img.shields.io/badge/Download-gallery--dl-blue.svg"></a> 
