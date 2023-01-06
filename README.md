@@ -15,7 +15,7 @@ GUIllery-DL is a simple "gallery-dl GUI" for downloading media files from differ
 
 It is possible to: 
 - save media files to any selected folder
-- create a folder with a user or tag name, and save media files in it
+- create a folder with a user or tag name and save media files in it
 
 Files that are in the target folder and have the names of the downloaded files will be overwritten!!!
 
