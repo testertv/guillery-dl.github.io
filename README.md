@@ -4,9 +4,10 @@
 
 <p align="center">        
 <a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-GPLv3-brightgreen.svg"></a>  
-<a href="" alt="License: GPLv3"><img src="https://img.shields.io/badge/Platform-Windows-brightgreen.svg"></a>
-<a href="" alt="License: GPLv3"><img src="https://img.shields.io/badge/Language-Visual%20Basic%20.NET%20-brightgreen"></a> 
-<a href="" alt="License: GPLv3"><img src="https://img.shields.io/badge/Version-2022.12.17-blue"></a>
+<a href="" alt=""><img src="https://img.shields.io/badge/Platform-Windows-brightgreen.svg"></a>
+<a href="" alt=""><img src="https://img.shields.io/badge/SW--Kind-Portable-orange"></a>
+<a href="" alt=""><img src="https://img.shields.io/badge/Language-Visual%20Basic%20.NET%20-brightgreen"></a> 
+<a href="" alt=""><img src="https://img.shields.io/badge/Version-2022.12.17-blue"></a>
 </p><p align="center">
         
 
